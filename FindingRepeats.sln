@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingRepeats", "FindingRepeats\FindingRepeats.csproj", "{30D227F7-8DC8-4892-A712-33B8EC58153C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D227F7-8DC8-4892-A712-33B8EC58153C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D227F7-8DC8-4892-A712-33B8EC58153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D227F7-8DC8-4892-A712-33B8EC58153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D227F7-8DC8-4892-A712-33B8EC58153C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D80B1B7-F25E-4AD3-A8B2-B1B9616CC47C}
+	EndGlobalSection
+EndGlobal
